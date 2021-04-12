@@ -1,8 +1,70 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "laporanKerja": [
+    { 
+      "no": 1,
+      "debitur": "Kathryn Murphy",
+      "plafond": "Rp 50.000.000",
+      "osRealtime": "Rp 45.000.000",
+      "jangkaWaktu": "24 bulan",
+      "mantri": "Daniel",
+      "unitBri": "Melawai",
+      "cabang": "Jakarta Selatan",
+      "wilayah": "DKI Jakarta",
+      "kolektabilitas": "1",
+      "osFasilitasSebelumnya": "Rp 45.000.000"
+    },
+    { 
+      "no": 2,
+      "debitur": "Darlene Robertson",
+      "plafond": "Rp 25.000.000",
+      "osRealtime": "Rp 17.000.000",
+      "jangkaWaktu": "12 bulan",
+      "mantri": "Sosong",
+      "unitBri": "Melawai",
+      "cabang": "Jakarta Selatan",
+      "wilayah": "DKI Jakarta",
+      "kolektabilitas": "2",
+      "osFasilitasSebelumnya": "Rp 17.000.000"
+    },
+    { 
+      "no": 3,
+      "debitur": "Floyd Miles",
+      "plafond": "Rp 50.000.000",
+      "osRealtime": "Rp 40.000.000",
+      "jangkaWaktu": "18 bulan",
+      "mantri": "Dwi Hisyam",
+      "unitBri": "Melawai",
+      "cabang": "Jakarta Selatan",
+      "wilayah": "DKI Jakarta",
+      "kolektabilitas": "",
+      "osFasilitasSebelumnya": "Rp. 20.000.000"
+    },
+    { 
+      "no": 4,
+      "debitur": "Devon Lane",
+      "plafond": "Rp 25.000.000",
+      "osRealtime": "Rp 20.000.000",
+      "jangkaWaktu": "24 bulan",
+      "mantri": "Sosong",
+      "unitBri": "Melawai",
+      "cabang": "Jakarta Selatan",
+      "wilayah": "DKI Jakarta",
+      "kolektabilitas": "2",
+      "osFasilitasSebelumnya": "Rp 48.000.000"
+    },
+    { 
+      "no": 5,
+      "debitur": "Jenny Wilson",
+      "plafond": "Rp 50.000.000",
+      "osRealtime": "Rp 48.000.000",
+      "jangkaWaktu": "18 bulan",
+      "mantri": "Daniel",
+      "unitBri": "Melawai",
+      "cabang": "Jakarta Selatan",
+      "wilayah": "DKI Jakarta",
+      "kolektabilitas": "2",
+      "osFasilitasSebelumnya": "Rp 48.000.000"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
