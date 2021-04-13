@@ -66,9 +66,179 @@
       "osFasilitasSebelumnya": "Rp 48.000.000"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "verifikasiOtp": [
+    { "no": 1,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Subagyo Anton",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi"
+    },
+    { "no": 2,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Courtney Henry",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi"
+    },
+    { "no": 3,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Kristin Watson",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi"
+    },
+    { "no": 4,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Jacob Jones",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi"
+    },
+    { "no": 5,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Esther Howard",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi"
+    },
+    { "no": 6,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Guy Hawkins",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi" 
+    },
+    { "no": 7,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Wade Warren",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi"
+    },
+    { "no": 8,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Bessie Cooper",
+      "last_update": "22 September 2020",
+      "status": "Foto tidak terdeteksi" 
+    }
+  ],
+  "verifikasiKtp": [
+    { "no": 1,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Subagyo Anton",
+      "last_update": "22 September 2020",
+      "status": "NIK tidak terdeteksi"
+    },
+    { "no": 2,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Courtney Henry",
+      "last_update": "22 September 2020",
+      "status": "KTP tidak sesuai"
+    },
+    { "no": 3,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Kristin Watson",
+      "last_update": "22 September 2020",
+      "status": "NIK tidak terdeteksi"
+    },
+    { "no": 4,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Jacob Jones",
+      "last_update": "22 September 2020",
+      "status": "NIK tidak terdeteksi"
+    },
+    { "no": 5,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Esther Howard",
+      "last_update": "22 September 2020",
+      "status": "KTP tidak sesuai"
+    },
+    { "no": 6,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Guy Hawkins",
+      "last_update": "22 September 2020",
+      "status": "NIK tidak terdeteksi" 
+    },
+    { "no": 7,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Wade Warren",
+      "last_update": "22 September 2020",
+      "status": "KTP tidak sesuai"
+    },
+    { "no": 8,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Bessie Cooper",
+      "last_update": "22 September 2020",
+      "status": "NIK tidak terdeteksi" 
+    }
+  ],
+  "verifikasiNpwp": [
+    { "no": 1,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Subagyo Anton",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi"
+    },
+    { "no": 2,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Courtney Henry",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi"
+    },
+    { "no": 3,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Kristin Watson",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi"
+    },
+    { "no": 4,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Jacob Jones",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi"
+    },
+    { "no": 5,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Esther Howard",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi"
+    },
+    { "no": 6,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Guy Hawkins",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi" 
+    },
+    { "no": 7,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Wade Warren",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi"
+    },
+    { "no": 8,
+      "application_id": "09234698109237",
+      "phone_number": "0812-1233-0395",
+      "name": "Bessie Cooper",
+      "last_update": "22 September 2020",
+      "status": "No. NPWP tidak terdeteksi" 
+    }
   ],
   "profile": {
     "name": "typicode"
