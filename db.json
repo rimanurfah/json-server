@@ -36,7 +36,7 @@
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
-      "kolektabilitas": "",
+      "kolektabilitas": "1",
       "osFasilitasSebelumnya": "Rp. 20.000.000"
     },
     { 
@@ -64,6 +64,45 @@
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "2",
       "osFasilitasSebelumnya": "Rp 48.000.000"
+    },
+    { 
+      "no": 6,
+      "debitur": "Gilang Anugerah",
+      "plafond": "Rp 80.000.000",
+      "osRealtime": "Rp 75.000.000",
+      "jangkaWaktu": "24 bulan",
+      "mantri": "Sosong",
+      "unitBri": "Melawai",
+      "cabang": "Jakarta Selatan",
+      "wilayah": "DKI Jakarta",
+      "kolektabilitas": "2",
+      "osFasilitasSebelumnya": "Rp 80.000.000"
+    },
+    { 
+      "no": 7,
+      "debitur": "Galang Zakiy",
+      "plafond": "Rp 55.000.000",
+      "osRealtime": "Rp 40.000.000",
+      "jangkaWaktu": "18 bulan",
+      "mantri": "Lala",
+      "unitBri": "Pajajaran",
+      "cabang": "Bogor",
+      "wilayah": "Jawa Barat",
+      "kolektabilitas": "2",
+      "osFasilitasSebelumnya": "Rp 55.000.000"
+    },
+    { 
+      "no": 8,
+      "debitur": "Zenan Alfa",
+      "plafond": "Rp 25.000.000",
+      "osRealtime": "Rp 20.000.000",
+      "jangkaWaktu": "12 bulan",
+      "mantri": "Lala",
+      "unitBri": "Pajajaran",
+      "cabang": "Bogor",
+      "wilayah": "Jawa Barat",
+      "kolektabilitas": "3",
+      "osFasilitasSebelumnya": "Rp 25.000.000"
     }
   ],
   "verifikasiOtp": [
