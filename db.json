@@ -1,108 +1,108 @@
 {
   "laporanKerja": [
     { 
-      "no": 1,
+      "cifNo": "CIF001",
       "debitur": "Kathryn Murphy",
-      "plafond": "Rp 50.000.000",
-      "osRealtime": "Rp 45.000.000",
+      "plafond": "50000000",
+      "osRealtime": "45000000",
       "jangkaWaktu": "24 bulan",
       "mantri": "Daniel",
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "1",
-      "osFasilitasSebelumnya": "Rp 45.000.000"
+      "osFasilitasSebelumnya": "45000000"
     },
     { 
-      "no": 2,
+      "cifNo": "CIF002",
       "debitur": "Darlene Robertson",
-      "plafond": "Rp 25.000.000",
-      "osRealtime": "Rp 17.000.000",
+      "plafond": "25000000",
+      "osRealtime": "17000000",
       "jangkaWaktu": "12 bulan",
       "mantri": "Sosong",
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "Rp 17.000.000"
+      "osFasilitasSebelumnya": "17000000"
     },
     { 
-      "no": 3,
+      "cifNo": "CIF007",
       "debitur": "Floyd Miles",
-      "plafond": "Rp 50.000.000",
-      "osRealtime": "Rp 40.000.000",
+      "plafond": "50000000",
+      "osRealtime": "40000000",
       "jangkaWaktu": "18 bulan",
       "mantri": "Dwi Hisyam",
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "1",
-      "osFasilitasSebelumnya": "Rp. 20.000.000"
+      "osFasilitasSebelumnya": "20000000"
     },
     { 
-      "no": 4,
+      "cifNo": "CIF009",
       "debitur": "Devon Lane",
-      "plafond": "Rp 25.000.000",
-      "osRealtime": "Rp 20.000.000",
+      "plafond": "25000000",
+      "osRealtime": "20000000",
       "jangkaWaktu": "24 bulan",
       "mantri": "Sosong",
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "Rp 48.000.000"
+      "osFasilitasSebelumnya": "48000000"
     },
     { 
-      "no": 5,
+      "cifNo": "CIF013",
       "debitur": "Jenny Wilson",
-      "plafond": "Rp 50.000.000",
-      "osRealtime": "Rp 48.000.000",
+      "plafond": "50000000",
+      "osRealtime": "48000000",
       "jangkaWaktu": "18 bulan",
       "mantri": "Daniel",
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "Rp 48.000.000"
+      "osFasilitasSebelumnya": "48000000"
     },
     { 
-      "no": 6,
+      "cifNo": "CIF019",
       "debitur": "Gilang Anugerah",
-      "plafond": "Rp 80.000.000",
-      "osRealtime": "Rp 75.000.000",
+      "plafond": "80000000",
+      "osRealtime": "75000000",
       "jangkaWaktu": "24 bulan",
       "mantri": "Sosong",
       "unitBri": "Melawai",
       "cabang": "Jakarta Selatan",
       "wilayah": "DKI Jakarta",
       "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "Rp 80.000.000"
+      "osFasilitasSebelumnya": "80000000"
     },
     { 
-      "no": 7,
+      "cifNo": "CIF027",
       "debitur": "Galang Zakiy",
-      "plafond": "Rp 55.000.000",
-      "osRealtime": "Rp 40.000.000",
+      "plafond": "55000000",
+      "osRealtime": "40000000",
       "jangkaWaktu": "18 bulan",
       "mantri": "Lala",
       "unitBri": "Pajajaran",
       "cabang": "Bogor",
       "wilayah": "Jawa Barat",
       "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "Rp 55.000.000"
+      "osFasilitasSebelumnya": "55000000"
     },
     { 
-      "no": 8,
+      "cifNo": "CIF031",
       "debitur": "Zenan Alfa",
-      "plafond": "Rp 25.000.000",
-      "osRealtime": "Rp 20.000.000",
+      "plafond": "25000000",
+      "osRealtime": "20000000",
       "jangkaWaktu": "12 bulan",
       "mantri": "Lala",
       "unitBri": "Pajajaran",
       "cabang": "Bogor",
       "wilayah": "Jawa Barat",
       "kolektabilitas": "3",
-      "osFasilitasSebelumnya": "Rp 25.000.000"
+      "osFasilitasSebelumnya": "25000000"
     }
   ],
   "verifikasiOtp": [
