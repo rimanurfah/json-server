@@ -15,48 +15,6 @@
       "osFasilitasSebelumnya": "45000000"
     },
     { 
-      "cifNo": "CIF002",
-      "debitur": "Darlene Robertson",
-      "plafond": "25000000",
-      "osRealtime": "17000000",
-      "jangkaWaktu": "12 bulan",
-      "mantri": "Sosong",
-      "mantriPn": "00288193",
-      "unitBri": "Melawai",
-      "cabang": "Jakarta Selatan",
-      "wilayah": "DKI Jakarta",
-      "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "17000000"
-    },
-    { 
-      "cifNo": "CIF007",
-      "debitur": "Floyd Miles",
-      "plafond": "50000000",
-      "osRealtime": "40000000",
-      "jangkaWaktu": "18 bulan",
-      "mantri": "Dwi Hisyam",
-      "mantriPn": "00173188",
-      "unitBri": "Melawai",
-      "cabang": "Jakarta Selatan",
-      "wilayah": "DKI Jakarta",
-      "kolektabilitas": "1",
-      "osFasilitasSebelumnya": "20000000"
-    },
-    { 
-      "cifNo": "CIF009",
-      "debitur": "Devon Lane",
-      "plafond": "25000000",
-      "osRealtime": "20000000",
-      "jangkaWaktu": "24 bulan",
-      "mantri": "Sosong",
-      "mantriPn": "00288193",
-      "unitBri": "Melawai",
-      "cabang": "Jakarta Selatan",
-      "wilayah": "DKI Jakarta",
-      "kolektabilitas": "2",
-      "osFasilitasSebelumnya": "48000000"
-    },
-    { 
       "cifNo": "CIF013",
       "debitur": "Jenny Wilson",
       "plafond": "50000000",
